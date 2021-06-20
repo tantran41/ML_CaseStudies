@@ -1,3 +1,3 @@
 # ML_CODING
 
-This is the place where I store examples of machine learning projects. 
+These are datacamp projects that I attempt to understand/run in my own environment. 
